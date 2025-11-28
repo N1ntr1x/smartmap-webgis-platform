@@ -1,0 +1,1 @@
+export const MAX_SIZE_GEOJSON_CHATBOT = 6;
