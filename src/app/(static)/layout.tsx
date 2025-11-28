@@ -1,0 +1,14 @@
+import { Footer } from "@/components/layout";
+
+export default function StaticLayout({
+    children,
+}: {
+    children: React.ReactNode;
+}) {
+    return (
+        <aside className="flex-1 overflow-y-auto overflow-hidden scroll-smooth">
+            {children}
+            <Footer />
+        </aside>
+    );
+}

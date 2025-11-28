@@ -1,0 +1,2049 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "Enti-0",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.5454638601,
+          38.17660963945
+        ]
+      },
+      "properties": {
+        "name": "Fondazione Apostolica sede Messina",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "category": "Ente - Tipo 9",
+        "city": "Messina",
+        "icon": null,
+        "color": null,
+        "sources": {
+          "web": [],
+          "documents": []
+        },
+        "customData": {
+          "codice_fiscale": "92016890532",
+          "indirizzo": "Via Catania 108",
+          "cap": "98124",
+          "telefono": null,
+          "cellulare": "3488109657",
+          "fax": null,
+          "mail": "sofiamario82@gmail.com",
+          "pec": "mariosofia@pec.it",
+          "convenzione": null,
+          "data": "2023-06-20 16:28:41"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Enti-1",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.553178429996,
+          38.178828390031
+        ]
+      },
+      "properties": {
+        "name": "Terra di Gesù",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "category": "Ente - Tipo 37",
+        "city": "Messina",
+        "icon": null,
+        "color": null,
+        "sources": {
+          "web": [
+            "https://terradigesuonlus.altervista.org"
+          ],
+          "documents": []
+        },
+        "customData": {
+          "codice_fiscale": "97099580835",
+          "indirizzo": "Via Trento 6",
+          "cap": "98123",
+          "telefono": null,
+          "cellulare": "3775298805",
+          "fax": null,
+          "mail": "terradigesu@gmail.com",
+          "pec": null,
+          "convenzione": 1,
+          "data": "2023-03-08 17:06:07"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Enti-2",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.549057957251,
+          38.190755333093
+        ]
+      },
+      "properties": {
+        "name": "Casa del Popolo",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "category": "Ente - Tipo 7",
+        "city": "Messina",
+        "icon": null,
+        "color": null,
+        "sources": {
+          "web": [
+            "https://www.facebook.com/profile.php?id=100092514562547"
+          ],
+          "documents": []
+        },
+        "customData": {
+          "codice_fiscale": "97138030834",
+          "indirizzo": "Via degli Amici 21",
+          "cap": "98122",
+          "telefono": null,
+          "cellulare": "3283096689",
+          "fax": null,
+          "mail": "casadelpopolomessina@gmail.com",
+          "pec": null,
+          "convenzione": null,
+          "data": "2025-03-19 10:16:21"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Enti-3",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.549436211586,
+          38.174036158232
+        ]
+      },
+      "properties": {
+        "name": "ASP Messina",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "category": "Ente - Tipo 5",
+        "city": "Messina",
+        "icon": null,
+        "color": null,
+        "sources": {
+          "web": [
+            "https://www.asp.messina.it"
+          ],
+          "documents": []
+        },
+        "customData": {
+          "codice_fiscale": "03051870834",
+          "indirizzo": "Via la Farina Palazzo geraci 263 n",
+          "cap": "98123",
+          "telefono": "0903651",
+          "cellulare": null,
+          "fax": null,
+          "mail": "protocollo.generale@asp.messina.it",
+          "pec": "protocollogenerale@pec.asp.messina.it",
+          "convenzione": 1,
+          "data": "2023-03-09 17:46:50"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Enti-4",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.40612846545,
+          38.228888034815
+        ]
+      },
+      "properties": {
+        "name": "G.I.V.A. ODV - Gruppo Internazionale Volontariato Arcobaleno",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "category": "Ente - Tipo 37",
+        "city": "Rometta",
+        "icon": null,
+        "color": null,
+        "sources": {
+          "web": [
+            "https://www.associazionegiva.eu"
+          ],
+          "documents": []
+        },
+        "customData": {
+          "codice_fiscale": "02965290832",
+          "indirizzo": "Piazza Graziella Campagna 13",
+          "cap": "98043",
+          "telefono": "0909963157",
+          "cellulare": "3476542772",
+          "fax": null,
+          "mail": "presidenza@associazionegiva.eu",
+          "pec": "postacertificata@pec.associazionegiva.eu",
+          "convenzione": null,
+          "data": "2025-07-29 13:29:46"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Enti-5",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.548408728664,
+          38.195840208155
+        ]
+      },
+      "properties": {
+        "name": "Associazione di Solidarietà Sociale Rogazionisti Cristo Re Onlus",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "category": "Ente - Tipo 38",
+        "city": "Messina",
+        "icon": null,
+        "color": null,
+        "sources": {
+          "web": [
+            "https://www.donarog.it"
+          ],
+          "documents": []
+        },
+        "customData": {
+          "codice_fiscale": null,
+          "indirizzo": "Viale Principe Umberto 89",
+          "cap": "98122",
+          "telefono": "090712117",
+          "cellulare": null,
+          "fax": null,
+          "mail": "Rogazionisti@cristore.it",
+          "pec": null,
+          "convenzione": null,
+          "data": "2022-12-16 09:20:10"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Enti-6",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.520079433853,
+          38.190556515923
+        ]
+      },
+      "properties": {
+        "name": "Anymore Onlus",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "category": "Ente - Tipo 38",
+        "city": "Messina",
+        "icon": null,
+        "color": null,
+        "sources": {
+          "web": [
+            "https://www.anymoreonlus.org"
+          ],
+          "documents": []
+        },
+        "customData": {
+          "codice_fiscale": "97093400832",
+          "indirizzo": "Via Comunale ctr Archi Camaro 1",
+          "cap": "98151",
+          "telefono": "0906409922",
+          "cellulare": "3283192091",
+          "fax": null,
+          "mail": "anymore@anymoreonlus.org",
+          "pec": "anymore@pec.anymoreonlus.org",
+          "convenzione": 1,
+          "data": "2023-02-08 14:09:32"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Enti-7",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.5386776,
+          38.214596
+        ]
+      },
+      "properties": {
+        "name": "Centro di solidarietà F.A.R.O.",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "category": "Ente - Tipo 6",
+        "city": "Messina",
+        "icon": null,
+        "color": null,
+        "sources": {
+          "web": [
+            "https://www.centrofaro.it"
+          ],
+          "documents": []
+        },
+        "customData": {
+          "codice_fiscale": "97008750834",
+          "indirizzo": "Via San Jachiddu 74",
+          "cap": "98152",
+          "telefono": "090362834",
+          "cellulare": "3499070733",
+          "fax": null,
+          "mail": "centrofaro@ten.it",
+          "pec": "centrofaro@pec.it",
+          "convenzione": 1,
+          "data": "2023-04-13 07:37:28"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Enti-8",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.551111251116,
+          38.19200613387
+        ]
+      },
+      "properties": {
+        "name": "CGIL",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "category": "Ente - Tipo 12",
+        "city": "Messina",
+        "icon": null,
+        "color": null,
+        "sources": {
+          "web": [
+            "http://www.cgilmessina.it/"
+          ],
+          "documents": []
+        },
+        "customData": {
+          "codice_fiscale": "80005920832",
+          "indirizzo": "Via Peculio Frumentario sn",
+          "cap": "98122",
+          "telefono": "090678281",
+          "cellulare": null,
+          "fax": null,
+          "mail": "messina@cgilsicilia.it",
+          "pec": "cgilmessina@pec.cgilmessina.it",
+          "convenzione": null,
+          "data": "2023-03-28 17:04:56"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Enti-9",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.542157769465,
+          38.167168598696
+        ]
+      },
+      "properties": {
+        "name": "Tre Ali Onlus",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "category": "Ente - Tipo 38",
+        "city": "Messina",
+        "icon": null,
+        "color": null,
+        "sources": {
+          "web": [
+            "https://www.treali.altervista.com"
+          ],
+          "documents": []
+        },
+        "customData": {
+          "codice_fiscale": "97083760831",
+          "indirizzo": "Via Uberto Bonino 8",
+          "cap": "98124",
+          "telefono": null,
+          "cellulare": "3534147138",
+          "fax": null,
+          "mail": "treali.onlus@gmail.com",
+          "pec": "treali@pec.it",
+          "convenzione": 1,
+          "data": "2023-05-16 15:48:03"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Enti-10",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.520262628892,
+          38.262261388368
+        ]
+      },
+      "properties": {
+        "name": "Soc. Coop. Azione Sociale",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "category": "Ente - Tipo 6",
+        "city": "Messina",
+        "icon": null,
+        "color": null,
+        "sources": {
+          "web": [],
+          "documents": []
+        },
+        "customData": {
+          "codice_fiscale": "01297770834",
+          "indirizzo": "Via Piazza San Giovanni Castanea 15",
+          "cap": "98155",
+          "telefono": "090317581",
+          "cellulare": "3938567908",
+          "fax": null,
+          "mail": "azionesociale.me84@gmail.com",
+          "pec": "azionesociale@sicurezzapostale.it",
+          "convenzione": 1,
+          "data": "2023-04-13 08:06:47"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Enti-11",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.532613396383,
+          38.172536517984
+        ]
+      },
+      "properties": {
+        "name": "Oratorio San Luigi Guanella",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "category": "Ente - Tipo 7",
+        "city": "Messina",
+        "icon": null,
+        "color": null,
+        "sources": {
+          "web": [
+            "https://sanluigiguanellame.wixsite.com/oratorio"
+          ],
+          "documents": []
+        },
+        "customData": {
+          "codice_fiscale": "97113460832",
+          "indirizzo": "Via 38 E Fondo Fucile 1",
+          "cap": "98147",
+          "telefono": "090689398",
+          "cellulare": "3515897584",
+          "fax": null,
+          "mail": "oratoriosanluigiguanella@gmail.com",
+          "pec": "oratoriosanluigi@pec.it",
+          "convenzione": null,
+          "data": "2022-11-28 16:30:16"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Enti-12",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.222195580651,
+          37.860329744684
+        ]
+      },
+      "properties": {
+        "name": "Associazione Penelope. Coordinamento Solidarietà sociale",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "category": "Ente - Tipo 38",
+        "city": "Gaggi",
+        "icon": null,
+        "color": null,
+        "sources": {
+          "web": [
+            "https://associazionepenelope.it"
+          ],
+          "documents": []
+        },
+        "customData": {
+          "codice_fiscale": "96004010839",
+          "indirizzo": "Via Villamena 18",
+          "cap": "98030",
+          "telefono": "0942550058",
+          "cellulare": "3295608778",
+          "fax": null,
+          "mail": "info@associazionepenelope.it",
+          "pec": "associazionepenelope@pec.associazionepenelope.it",
+          "convenzione": null,
+          "data": "2022-11-28 11:02:20"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Enti-13",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.553695022929,
+          38.197094723437
+        ]
+      },
+      "properties": {
+        "name": "C.I.R.S. (Comitato Italiano Reinserimento Sociale)",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "category": "Ente - Tipo 40",
+        "city": "Messina",
+        "icon": null,
+        "color": null,
+        "sources": {
+          "web": [
+            "https://www.cirsme.it"
+          ],
+          "documents": []
+        },
+        "customData": {
+          "codice_fiscale": "03516340837",
+          "indirizzo": "Via Monsignor Francesco Bruno 22",
+          "cap": "98122",
+          "telefono": "090362235",
+          "cellulare": null,
+          "fax": null,
+          "mail": "cirsonlusme@virgilio.it",
+          "pec": "cirscasafamigliaonlus@pec.cedacoop.com",
+          "convenzione": 1,
+          "data": "2023-06-12 07:25:35"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Enti-14",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.0818205,
+          37.5707778
+        ]
+      },
+      "properties": {
+        "name": "Associazione AmiCri ODV",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "category": "Ente - Tipo 37",
+        "city": "Tremestieri Etneo",
+        "icon": null,
+        "color": null,
+        "sources": {
+          "web": [
+            "https://www.amicriodv.org"
+          ],
+          "documents": []
+        },
+        "customData": {
+          "codice_fiscale": "93236750878",
+          "indirizzo": "Via del Quadrifoglio 5",
+          "cap": "95030",
+          "telefono": null,
+          "cellulare": "330 588043",
+          "fax": null,
+          "mail": "amicri2015@gmail.com",
+          "pec": "associazioneamicr@pec-mail.it",
+          "convenzione": null,
+          "data": "2024-05-28 09:19:45"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Enti-15",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.553715,
+          38.1840893
+        ]
+      },
+      "properties": {
+        "name": "Arcigay Makwan Messina",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "category": "Ente - Tipo 7",
+        "city": "Messina",
+        "icon": null,
+        "color": null,
+        "sources": {
+          "web": [],
+          "documents": []
+        },
+        "customData": {
+          "codice_fiscale": "97094010838",
+          "indirizzo": "Via Camiciotti 71",
+          "cap": "98123",
+          "telefono": "0909433559",
+          "cellulare": "3405255960",
+          "fax": null,
+          "mail": "arcigaymessina@virgilio.it",
+          "pec": "arcigaymakwan@pec.it",
+          "convenzione": 1,
+          "data": "2023-04-27 07:43:21"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Enti-16",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.543433427811,
+          38.169102273975
+        ]
+      },
+      "properties": {
+        "name": "Caritas Diocesana di Messina Lipari Santa Lucia del Mela",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "category": "Ente - Tipo 9",
+        "city": "Messina",
+        "icon": null,
+        "color": null,
+        "sources": {
+          "web": [
+            "https://caritas.diocesimessina.it/"
+          ],
+          "documents": []
+        },
+        "customData": {
+          "codice_fiscale": null,
+          "indirizzo": "Via Emilia 19",
+          "cap": "98124",
+          "telefono": "0909146045",
+          "cellulare": null,
+          "fax": null,
+          "mail": "ufficiocaritas@diocesimessina@diocesimessina.it",
+          "pec": null,
+          "convenzione": null,
+          "data": "2022-10-20 09:15:28"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Enti-17",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.560763850808,
+          38.18627666861
+        ]
+      },
+      "properties": {
+        "name": "Cittadinanza Attiva Sicilia",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "category": "Ente - Tipo 7",
+        "city": "Messina",
+        "icon": null,
+        "color": null,
+        "sources": {
+          "web": [
+            "https://www.cittadinanzattiva.it/le-voci-della-cittadinanza/sicilia"
+          ],
+          "documents": []
+        },
+        "customData": {
+          "codice_fiscale": null,
+          "indirizzo": "Piazza Della Repubblica 1",
+          "cap": "98122",
+          "telefono": "09073713129",
+          "cellulare": null,
+          "fax": null,
+          "mail": null,
+          "pec": null,
+          "convenzione": 1,
+          "data": "2023-03-31 08:26:35"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Enti-18",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.5511806,
+          38.1959397
+        ]
+      },
+      "properties": {
+        "name": "Padri rogazionisti",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "category": "Ente - Tipo 38",
+        "city": "Messina",
+        "icon": null,
+        "color": null,
+        "sources": {
+          "web": [
+            "https://cristore.rcj.org"
+          ],
+          "documents": []
+        },
+        "customData": {
+          "codice_fiscale": "97088630831",
+          "indirizzo": "viale principe Umberto 93",
+          "cap": "98122",
+          "telefono": "090675105",
+          "cellulare": null,
+          "fax": null,
+          "mail": "segreteria@cristore.it",
+          "pec": null,
+          "convenzione": 1,
+          "data": "2023-03-20 10:58:59"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Enti-19",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.550402505429,
+          38.1835066
+        ]
+      },
+      "properties": {
+        "name": "Congregazione dei Rogazionisti",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "category": "Ente - Tipo 9",
+        "city": "Messina",
+        "icon": null,
+        "color": null,
+        "sources": {
+          "web": [
+            "https://www.basilicaantoniana.it"
+          ],
+          "documents": []
+        },
+        "customData": {
+          "codice_fiscale": "02648090583",
+          "indirizzo": "Via Santa Cecilia 121",
+          "cap": "98123",
+          "telefono": "090669705",
+          "cellulare": null,
+          "fax": null,
+          "mail": "casamadre@rcj.org",
+          "pec": null,
+          "convenzione": null,
+          "data": "2023-03-31 08:20:37"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Enti-20",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.551418,
+          38.180405
+        ]
+      },
+      "properties": {
+        "name": "Unione Inquilini",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "category": "Ente - Tipo 12",
+        "city": "Messina",
+        "icon": null,
+        "color": null,
+        "sources": {
+          "web": [
+            "https://www.unioneinquilini.it"
+          ],
+          "documents": []
+        },
+        "customData": {
+          "codice_fiscale": "92015720490",
+          "indirizzo": "Viale San Martino 261",
+          "cap": "98123",
+          "telefono": "0902401784",
+          "cellulare": "3407125911",
+          "fax": null,
+          "mail": "unioneinquilinimessina@gmail.com",
+          "pec": "unioneinquilinimessina@pec.it",
+          "convenzione": null,
+          "data": "2022-10-20 09:16:11"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Enti-21",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.6020472,
+          38.2543901
+        ]
+      },
+      "properties": {
+        "name": "Associazione Italiana Educazione Demografica",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "category": "Ente - Tipo 7",
+        "city": "Messina",
+        "icon": null,
+        "color": null,
+        "sources": {
+          "web": [
+            "https://www.aiedme.it"
+          ],
+          "documents": []
+        },
+        "customData": {
+          "codice_fiscale": "00491550836",
+          "indirizzo": "Via Giuseppe Caporal 85",
+          "cap": "98166",
+          "telefono": "090321336",
+          "cellulare": null,
+          "fax": null,
+          "mail": "info@aiedme.it",
+          "pec": "aiedme@pec-legal.it",
+          "convenzione": null,
+          "data": "2023-03-30 08:14:48"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Enti-22",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.072956,
+          37.4953142
+        ]
+      },
+      "properties": {
+        "name": "Caritas Diocesana Catania",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "category": "Ente - Tipo 9",
+        "city": "Catania",
+        "icon": null,
+        "color": null,
+        "sources": {
+          "web": [
+            "https://www.caritascatania.it"
+          ],
+          "documents": []
+        },
+        "customData": {
+          "codice_fiscale": "93133710876",
+          "indirizzo": "Via Acquicella 104",
+          "cap": "95121",
+          "telefono": "095 2161224",
+          "cellulare": "345 48 17 733",
+          "fax": null,
+          "mail": "segreteria@caritascatania.it",
+          "pec": "caritas@pec.diocesi.catania.it",
+          "convenzione": 1,
+          "data": "2024-05-25 10:17:06"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Enti-23",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.541957268426,
+          38.171099245029
+        ]
+      },
+      "properties": {
+        "name": "Comitato Addiopizzo Messina ETS",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "category": "Ente - Tipo 40",
+        "city": "Messina",
+        "icon": null,
+        "color": null,
+        "sources": {
+          "web": [
+            "https://www.addiopizzomessina.org"
+          ],
+          "documents": []
+        },
+        "customData": {
+          "codice_fiscale": "97099950830",
+          "indirizzo": "Via Monsignor Gaetano Grano 2",
+          "cap": "98124",
+          "telefono": null,
+          "cellulare": "3391706865",
+          "fax": null,
+          "mail": "addiopizzomessina@gmail.com",
+          "pec": "addiopizzomessina@pec.it",
+          "convenzione": 1,
+          "data": "2025-05-14 08:56:01"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Enti-24",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.52824139726,
+          38.181567999589
+        ]
+      },
+      "properties": {
+        "name": "Ecos-med",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "category": "Ente - Tipo 6",
+        "city": "Messina",
+        "icon": null,
+        "color": null,
+        "sources": {
+          "web": [
+            "https://fdcmessina.org"
+          ],
+          "documents": []
+        },
+        "customData": {
+          "codice_fiscale": "02094960834",
+          "indirizzo": "Parco Sociale Forte Petrazza Camaro 1",
+          "cap": "98151",
+          "telefono": "090325236",
+          "cellulare": null,
+          "fax": null,
+          "mail": "amministrazione@ecosmed.it",
+          "pec": "ecosmed@legalmail.it",
+          "convenzione": null,
+          "data": "2022-11-04 14:30:00"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Enti-25",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.0844459,
+          37.5143179
+        ]
+      },
+      "properties": {
+        "name": "Croce Rossa Comitato di Catania",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "category": "Ente - Tipo 3",
+        "city": "Catania",
+        "icon": null,
+        "color": null,
+        "sources": {
+          "web": [
+            "https://www.cricatania.it"
+          ],
+          "documents": []
+        },
+        "customData": {
+          "codice_fiscale": "05137050877",
+          "indirizzo": "Via Etnea 353",
+          "cap": "95125",
+          "telefono": "095 434129",
+          "cellulare": null,
+          "fax": "095 434129",
+          "mail": "catania@cri.it",
+          "pec": "cri.sicilia@cert.cri.it",
+          "convenzione": 1,
+          "data": "2024-06-04 08:56:49"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Enti-26",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.55369931466,
+          38.208537281501
+        ]
+      },
+      "properties": {
+        "name": "ANFFAS",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "category": "Ente - Tipo 38",
+        "city": "Messina",
+        "icon": null,
+        "color": null,
+        "sources": {
+          "web": [
+            "https://www.anffas.net"
+          ],
+          "documents": []
+        },
+        "customData": {
+          "codice_fiscale": "02638460838",
+          "indirizzo": "Viale Regina Elena 3",
+          "cap": "98121",
+          "telefono": "0906018637",
+          "cellulare": null,
+          "fax": null,
+          "mail": "anffasme.sai@gmail.com",
+          "pec": "anffasme.sai@pec.it",
+          "convenzione": 1,
+          "data": "2023-05-02 13:09:18"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Enti-27",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.529305809977,
+          38.04726968501
+        ]
+      },
+      "properties": {
+        "name": "Croce Rossa Italiana - Comitato di Palermo",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "category": "Ente - Tipo 37",
+        "city": "Casteldaccia",
+        "icon": null,
+        "color": null,
+        "sources": {
+          "web": [
+            "https://www.dimoraponmetro.it"
+          ],
+          "documents": []
+        },
+        "customData": {
+          "codice_fiscale": null,
+          "indirizzo": "Via Pietro Nenni 75",
+          "cap": "90146",
+          "telefono": "0916805111",
+          "cellulare": null,
+          "fax": null,
+          "mail": "serviziosociale.pa@doncalabriaeuropa.org",
+          "pec": null,
+          "convenzione": null,
+          "data": "2024-04-30 16:29:49"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Enti-28",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.523217618465,
+          38.189519728942
+        ]
+      },
+      "properties": {
+        "name": "Cameris",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "category": "Ente - Tipo 7",
+        "city": "Messina",
+        "icon": null,
+        "color": null,
+        "sources": {
+          "web": [],
+          "documents": []
+        },
+        "customData": {
+          "codice_fiscale": null,
+          "indirizzo": "Via Chiesa Vecchia, Camaro superiore snc",
+          "cap": "98151",
+          "telefono": "0903693834",
+          "cellulare": null,
+          "fax": null,
+          "mail": "puntoinfocamaro@virgilio.it",
+          "pec": null,
+          "convenzione": null,
+          "data": "2022-12-12 14:42:05"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Enti-29",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.555622726679,
+          38.18962103795
+        ]
+      },
+      "properties": {
+        "name": "Gocce Soc. Coop. Soc.",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "category": "Ente - Tipo 6",
+        "city": "Messina",
+        "icon": null,
+        "color": null,
+        "sources": {
+          "web": [],
+          "documents": []
+        },
+        "customData": {
+          "codice_fiscale": "01971390834",
+          "indirizzo": "Via San Filippo Bianchi 20",
+          "cap": "98122",
+          "telefono": "090317897",
+          "cellulare": null,
+          "fax": null,
+          "mail": "gocce_96@libero.it",
+          "pec": "gocce_96@pec.it",
+          "convenzione": null,
+          "data": "2023-04-26 14:24:03"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Enti-30",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.5447666,
+          38.1749589
+        ]
+      },
+      "properties": {
+        "name": "Parrocchia Santa Maria di Gesù inferiore",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "category": "Ente - Tipo 9",
+        "city": "Messina",
+        "icon": null,
+        "color": null,
+        "sources": {
+          "web": [],
+          "documents": []
+        },
+        "customData": {
+          "codice_fiscale": "97009430832",
+          "indirizzo": "via catania 214",
+          "cap": "98124",
+          "telefono": "0902935926",
+          "cellulare": null,
+          "fax": "0902920021",
+          "mail": "santamariadigesù.inf@gmail.com",
+          "pec": "santamariadigesù@pec.it",
+          "convenzione": null,
+          "data": "2022-10-26 07:53:18"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Enti-31",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.555898239852,
+          38.193895453993
+        ]
+      },
+      "properties": {
+        "name": "Comune di Messina",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "category": "Ente - Tipo 13",
+        "city": "Messina",
+        "icon": null,
+        "color": null,
+        "sources": {
+          "web": [
+            "https://www.comune.messina.it"
+          ],
+          "documents": []
+        },
+        "customData": {
+          "codice_fiscale": "00080270838",
+          "indirizzo": "Piazza Unione Europea 1",
+          "cap": "98122",
+          "telefono": "0907721",
+          "cellulare": null,
+          "fax": null,
+          "mail": "urp@pec.comune.messina.it",
+          "pec": "protocollo@pec.comune.messina.it",
+          "convenzione": 1,
+          "data": "2022-05-31 09:20:38"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Enti-32",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.5315052,
+          38.1697602
+        ]
+      },
+      "properties": {
+        "name": "Parrocchia SS. Salvatore e S.Pio X",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "category": "Ente - Tipo 9",
+        "city": "Messina",
+        "icon": null,
+        "color": null,
+        "sources": {
+          "web": [],
+          "documents": []
+        },
+        "customData": {
+          "codice_fiscale": "97043510839",
+          "indirizzo": "Via Benincasa 1",
+          "cap": "98147",
+          "telefono": "090683031",
+          "cellulare": null,
+          "fax": null,
+          "mail": "parrocchiaguanella.sssalvatore@gmail.com",
+          "pec": null,
+          "convenzione": null,
+          "data": "2022-11-28 16:21:44"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Enti-33",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.556141734123,
+          38.190217716188
+        ]
+      },
+      "properties": {
+        "name": "Migrantes",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "category": "Ente - Tipo 9",
+        "city": "Messina",
+        "icon": null,
+        "color": null,
+        "sources": {
+          "web": [
+            "https://www.diocesimessina.it/area-uffici-pastorali/ufficio-migrantes"
+          ],
+          "documents": []
+        },
+        "customData": {
+          "codice_fiscale": null,
+          "indirizzo": "via Garibaldi 67",
+          "cap": "98122",
+          "telefono": "0906684211",
+          "cellulare": null,
+          "fax": "0906684212",
+          "mail": "comunicazione@migrantesmessina.org",
+          "pec": null,
+          "convenzione": null,
+          "data": "2022-10-20 09:12:35"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Enti-34",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.864262584015,
+          41.106619436163
+        ]
+      },
+      "properties": {
+        "name": "Medihospes",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "category": "Ente - Tipo 6",
+        "city": "Bari",
+        "icon": null,
+        "color": null,
+        "sources": {
+          "web": [
+            "https://www.medihospes.it"
+          ],
+          "documents": []
+        },
+        "customData": {
+          "codice_fiscale": "01709130767",
+          "indirizzo": "Via Caduti Strage di Bologna 5",
+          "cap": "70125",
+          "telefono": "0809905341",
+          "cellulare": null,
+          "fax": null,
+          "mail": "info@medihospes.it",
+          "pec": "medihospes@pec.it",
+          "convenzione": null,
+          "data": "2023-07-28 11:15:11"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Enti-35",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.5447666,
+          38.1749589
+        ]
+      },
+      "properties": {
+        "name": "Ninnilab laboratorio artigianale solidale Onlus",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "category": "Ente - Tipo 37",
+        "city": "Messina",
+        "icon": null,
+        "color": null,
+        "sources": {
+          "web": [],
+          "documents": []
+        },
+        "customData": {
+          "codice_fiscale": "97121800839",
+          "indirizzo": "Via Catania 497",
+          "cap": "98124",
+          "telefono": null,
+          "cellulare": "3402222887",
+          "fax": null,
+          "mail": "ninnilab@libero.it",
+          "pec": "ninnilab@pec.it",
+          "convenzione": null,
+          "data": "2022-11-29 10:42:19"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Enti-36",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.515624284744,
+          38.119656965173
+        ]
+      },
+      "properties": {
+        "name": "Parrocchia San Paolino Vescovo",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "category": "Ente - Tipo 9",
+        "city": "Messina",
+        "icon": null,
+        "color": null,
+        "sources": {
+          "web": [],
+          "documents": []
+        },
+        "customData": {
+          "codice_fiscale": "800080009690837",
+          "indirizzo": "Via Nazionale 192",
+          "cap": "98131",
+          "telefono": "0903692052",
+          "cellulare": null,
+          "fax": null,
+          "mail": null,
+          "pec": null,
+          "convenzione": 1,
+          "data": "2022-10-21 14:19:59"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Enti-37",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.0835193,
+          37.5013018
+        ]
+      },
+      "properties": {
+        "name": "Comunità di Sant'Egidio  - Sicilia ODV-Ets",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "category": "Ente - Tipo 37",
+        "city": "Catania",
+        "icon": null,
+        "color": null,
+        "sources": {
+          "web": [
+            "https://www.santegidiosicilia.it"
+          ],
+          "documents": []
+        },
+        "customData": {
+          "codice_fiscale": "97091710836",
+          "indirizzo": "Via Castello Ursino 4",
+          "cap": "95123",
+          "telefono": "0902008768",
+          "cellulare": null,
+          "fax": null,
+          "mail": "info@santegidio.sicilia.it",
+          "pec": "postacert@pec.santegidio.sicilia.it",
+          "convenzione": null,
+          "data": "2022-12-05 12:05:30"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Enti-38",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.5366466,
+          38.1689497
+        ]
+      },
+      "properties": {
+        "name": "Le.L.A.T",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "category": "Ente - Tipo 8",
+        "city": "Messina",
+        "icon": null,
+        "color": null,
+        "sources": {
+          "web": [
+            "https://www.lelat.it"
+          ],
+          "documents": []
+        },
+        "customData": {
+          "codice_fiscale": "97020580839",
+          "indirizzo": "Via Gaetano Alessi SN",
+          "cap": "98124",
+          "telefono": "090686811",
+          "cellulare": "3476490364",
+          "fax": null,
+          "mail": "lelatme@libero.it",
+          "pec": "lelat@pec.it",
+          "convenzione": null,
+          "data": "2023-03-31 08:41:26"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Enti-39",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.41850483826,
+          37.999704797536
+        ]
+      },
+      "properties": {
+        "name": "Avis Comune di Alì Terme",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "category": "Ente - Tipo 37",
+        "city": "Alì Terme",
+        "icon": null,
+        "color": null,
+        "sources": {
+          "web": [],
+          "documents": []
+        },
+        "customData": {
+          "codice_fiscale": null,
+          "indirizzo": "Via Francesco Crispi 517",
+          "cap": "98021",
+          "telefono": null,
+          "cellulare": "0942 716463",
+          "fax": null,
+          "mail": "avisaliterme@tiscali.it",
+          "pec": null,
+          "convenzione": null,
+          "data": "2025-07-28 11:22:22"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Enti-40",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.556173920631,
+          38.190200851004
+        ]
+      },
+      "properties": {
+        "name": "Arcidiocesi di Messina LIpari Santa Lucia del Mela",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "category": "Ente - Tipo 9",
+        "city": "Messina",
+        "icon": null,
+        "color": null,
+        "sources": {
+          "web": [
+            "https://www.diocesimessina.it"
+          ],
+          "documents": []
+        },
+        "customData": {
+          "codice_fiscale": "97015320837",
+          "indirizzo": "Via Garibaldi 67",
+          "cap": "98123",
+          "telefono": "0906684301",
+          "cellulare": null,
+          "fax": "090 6684206",
+          "mail": "arcivescovo.messina@tin.it",
+          "pec": "arcidiocesidimessina-lipari-s.luciadelmela@pec.it",
+          "convenzione": null,
+          "data": "2022-10-20 09:14:30"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Enti-41",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.266929120698,
+          38.165094791981
+        ]
+      },
+      "properties": {
+        "name": "AIAS - sez. San Filippo del Mela",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "category": "Ente - Tipo 40",
+        "city": "San Filippo del Mela",
+        "icon": null,
+        "color": null,
+        "sources": {
+          "web": [
+            "https://www.aiassanfilippodelmela.it"
+          ],
+          "documents": []
+        },
+        "customData": {
+          "codice_fiscale": "01952490835",
+          "indirizzo": "Contrada Donnamiata snc",
+          "cap": "98044",
+          "telefono": "0909433231",
+          "cellulare": "3466431283",
+          "fax": null,
+          "mail": "amm.aias.sfm@gmail.com",
+          "pec": "aiassanfilippodelmela@pec.it",
+          "convenzione": 1,
+          "data": "2025-07-29 07:49:52"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Enti-42",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.432332959731,
+          38.233740825634
+        ]
+      },
+      "properties": {
+        "name": "UNA DI NOI",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "category": "Ente - Tipo 7",
+        "city": "Villafranca Tirrena",
+        "icon": null,
+        "color": null,
+        "sources": {
+          "web": [],
+          "documents": []
+        },
+        "customData": {
+          "codice_fiscale": null,
+          "indirizzo": "Via Rovere 10",
+          "cap": "98049",
+          "telefono": null,
+          "cellulare": "3426239473",
+          "fax": null,
+          "mail": "unadinoionlus@virgilio.it",
+          "pec": null,
+          "convenzione": null,
+          "data": "2025-07-30 18:31:31"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Enti-43",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.427406665469,
+          38.219504672826
+        ]
+      },
+      "properties": {
+        "name": "Rivivere a colori Saponara ETS",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "category": "Ente - Tipo 40",
+        "city": "Saponara",
+        "icon": null,
+        "color": null,
+        "sources": {
+          "web": [],
+          "documents": []
+        },
+        "customData": {
+          "codice_fiscale": null,
+          "indirizzo": "Via Dafne s.n.c",
+          "cap": "98047",
+          "telefono": null,
+          "cellulare": "3384619391",
+          "fax": null,
+          "mail": "rivivereacolori.saponara@gmail.com",
+          "pec": null,
+          "convenzione": null,
+          "data": "2025-07-31 04:55:47"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Enti-44",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6516538,
+          41.8161684
+        ]
+      },
+      "properties": {
+        "name": "Suore Francescane dei Poveri",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "category": "Ente - Tipo 9",
+        "city": "Roma",
+        "icon": null,
+        "color": null,
+        "sources": {
+          "web": [
+            "https://www.franciscansisters-it.sfp-poor.org/"
+          ],
+          "documents": []
+        },
+        "customData": {
+          "codice_fiscale": "84000690580",
+          "indirizzo": "Via Tuscolana 73",
+          "cap": "00044",
+          "telefono": null,
+          "cellulare": null,
+          "fax": null,
+          "mail": null,
+          "pec": null,
+          "convenzione": null,
+          "data": "2023-06-09 15:19:34"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Enti-45",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.5501471,
+          38.1796162
+        ]
+      },
+      "properties": {
+        "name": "Cisl",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "category": "Ente - Tipo 12",
+        "city": "Messina",
+        "icon": null,
+        "color": null,
+        "sources": {
+          "web": [
+            "https://www.cislsicilia.it/territori/ust-me/"
+          ],
+          "documents": []
+        },
+        "customData": {
+          "codice_fiscale": null,
+          "indirizzo": "Viale Europa 58",
+          "cap": "98123",
+          "telefono": "090.6507611",
+          "cellulare": null,
+          "fax": null,
+          "mail": "UST.MESSINA@CISL.IT",
+          "pec": "UST.MESSINA@PEC.CISL.IT",
+          "convenzione": null,
+          "data": "2022-06-08 07:38:28"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Enti-46",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.528219939588,
+          38.18175353504
+        ]
+      },
+      "properties": {
+        "name": "Consorzio Sol.E.",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "category": "Ente - Tipo 6",
+        "city": "Messina",
+        "icon": null,
+        "color": null,
+        "sources": {
+          "web": [
+            "https://fdcmessina.com"
+          ],
+          "documents": []
+        },
+        "customData": {
+          "codice_fiscale": "02509700833",
+          "indirizzo": "Parco Sociale Forte Petrazza Camaro Superiore 1",
+          "cap": "98151",
+          "telefono": "0909023224",
+          "cellulare": null,
+          "fax": null,
+          "mail": "consorzio.sole@libero.it",
+          "pec": "consorzio.sole@pec.libero.it",
+          "convenzione": null,
+          "data": "2023-03-31 08:32:53"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Enti-47",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.547676682341,
+          38.192100265177
+        ]
+      },
+      "properties": {
+        "name": "Messina Social City",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "category": "Ente - Tipo 36",
+        "city": "Messina",
+        "icon": null,
+        "color": null,
+        "sources": {
+          "web": [
+            "https://www.messinasocialcity.it"
+          ],
+          "documents": []
+        },
+        "customData": {
+          "codice_fiscale": "03542680834",
+          "indirizzo": "Via Felice Bisazza 60",
+          "cap": "98122",
+          "telefono": "090 9488007",
+          "cellulare": null,
+          "fax": null,
+          "mail": "amministrazione@messinasocialcity.it",
+          "pec": "messinasocialcity@pec.it",
+          "convenzione": 1,
+          "data": "2023-08-02 09:26:57"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Enti-48",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.5577455,
+          38.1866768
+        ]
+      },
+      "properties": {
+        "name": "Croce Rossa Italiana Comitato di Messina",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "category": "Ente - Tipo 37",
+        "city": "Messina",
+        "icon": null,
+        "color": null,
+        "sources": {
+          "web": [
+            "https://messinacri.it"
+          ],
+          "documents": []
+        },
+        "customData": {
+          "codice_fiscale": "03289330833",
+          "indirizzo": "Via Giordano Bruno 176",
+          "cap": "98123",
+          "telefono": "0902408770",
+          "cellulare": null,
+          "fax": null,
+          "mail": "messina@cri.it",
+          "pec": "messina@cert.cri.it",
+          "convenzione": null,
+          "data": "2023-03-02 19:35:31"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Enti-49",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.550553620058,
+          38.187584869348
+        ]
+      },
+      "properties": {
+        "name": "CEDAV Onlus",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "category": "Ente - Tipo 40",
+        "city": "Messina",
+        "icon": null,
+        "color": null,
+        "sources": {
+          "web": [
+            "https://www.facebook.com/cedavonlus/"
+          ],
+          "documents": []
+        },
+        "customData": {
+          "codice_fiscale": null,
+          "indirizzo": "Via Giovanni Alfredo Cesareo 24",
+          "cap": "98123",
+          "telefono": "0902130166",
+          "cellulare": "3452630913",
+          "fax": null,
+          "mail": "cedav@virgilio.it",
+          "pec": null,
+          "convenzione": null,
+          "data": "2025-02-26 08:30:38"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Enti-50",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.0641553,
+          37.5181044
+        ]
+      },
+      "properties": {
+        "name": "Soc. Coop. Sociale Team",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "category": "Ente - Tipo 13",
+        "city": "Catania",
+        "icon": null,
+        "color": null,
+        "sources": {
+          "web": [
+            "https://www.cooperativateam.it"
+          ],
+          "documents": []
+        },
+        "customData": {
+          "codice_fiscale": "03868720875",
+          "indirizzo": "Via Pietro Carrera 23",
+          "cap": "95123",
+          "telefono": "095 288 89 24",
+          "cellulare": "393 8288646",
+          "fax": null,
+          "mail": "coopsociale.team@gmail.com",
+          "pec": "team4@legalmail.it",
+          "convenzione": 1,
+          "data": "2024-06-13 14:14:28"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Enti-51",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.541361153126,
+          38.218042713311
+        ]
+      },
+      "properties": {
+        "name": "Evaluna APS",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "category": "Ente - Tipo 7",
+        "city": "Messina",
+        "icon": null,
+        "color": null,
+        "sources": {
+          "web": [],
+          "documents": []
+        },
+        "customData": {
+          "codice_fiscale": "96006830838",
+          "indirizzo": "Via San Jachiddu 100",
+          "cap": "98152",
+          "telefono": "0902408425",
+          "cellulare": "3921261928",
+          "fax": null,
+          "mail": "evalunaonlus@gmail.com",
+          "pec": "evalunaonlus@pec.it",
+          "convenzione": 1,
+          "data": "2023-05-24 12:55:12"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Enti-52",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.555993676579,
+          38.18179364704
+        ]
+      },
+      "properties": {
+        "name": "Gli Invisibili",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "category": "Ente - Tipo 7",
+        "city": "Messina",
+        "icon": null,
+        "color": null,
+        "sources": {
+          "web": [
+            "https://www.facebook.com/groups/invisibilionlus/?locale=it_IT"
+          ],
+          "documents": []
+        },
+        "customData": {
+          "codice_fiscale": "97125700837",
+          "indirizzo": "Via Giuseppe La Farina 141",
+          "cap": "98123",
+          "telefono": null,
+          "cellulare": "3899960829",
+          "fax": null,
+          "mail": "invisibilimessina@gmail.com",
+          "pec": "invisibili@pec.it",
+          "convenzione": 1,
+          "data": "2023-08-01 17:23:20"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Enti-53",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.506998300552,
+          38.108852165751
+        ]
+      },
+      "properties": {
+        "name": "Santa Maria della Strada",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "category": "Ente - Tipo 6",
+        "city": "Messina",
+        "icon": null,
+        "color": null,
+        "sources": {
+          "web": [
+            "https://santamariadellastrada.it"
+          ],
+          "documents": []
+        },
+        "customData": {
+          "codice_fiscale": "02094900830",
+          "indirizzo": "Via Comunale Galati Sant'Anna 1",
+          "cap": "98134",
+          "telefono": "0906409387",
+          "cellulare": "3206296624",
+          "fax": null,
+          "mail": "s.mariadellastrada@libero.it",
+          "pec": "s.mariadellastrada@pec.it",
+          "convenzione": 1,
+          "data": "2022-11-09 07:53:35"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Enti-54",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.551686584884,
+          38.200232078733
+        ]
+      },
+      "properties": {
+        "name": "Francescani di strada",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "category": "Ente - Tipo 11",
+        "city": "Messina",
+        "icon": null,
+        "color": null,
+        "sources": {
+          "web": [],
+          "documents": []
+        },
+        "customData": {
+          "codice_fiscale": null,
+          "indirizzo": "Viale Regina Margherita 1",
+          "cap": "98121",
+          "telefono": null,
+          "cellulare": null,
+          "fax": null,
+          "mail": null,
+          "pec": null,
+          "convenzione": null,
+          "data": "2023-08-22 11:06:45"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Enti-55",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.558252632552,
+          38.182600933461
+        ]
+      },
+      "properties": {
+        "name": "Associazione Il Cantiere dell'InCanto",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "category": "Ente - Tipo 10",
+        "city": "Messina",
+        "icon": null,
+        "color": null,
+        "sources": {
+          "web": [
+            "https://www.cantiereincanto.it"
+          ],
+          "documents": []
+        },
+        "customData": {
+          "codice_fiscale": "02721530836",
+          "indirizzo": "Via Maddalena 8",
+          "cap": "98123",
+          "telefono": null,
+          "cellulare": null,
+          "fax": null,
+          "mail": "ilcantiereincanto@libero.it",
+          "pec": null,
+          "convenzione": null,
+          "data": "2023-05-05 17:30:34"
+        }
+      }
+    }
+  ]
+}
